@@ -1,7 +1,7 @@
 <div align="center">
   <h1>functional-conditional</h1>
 
-  <b>Switch Statement: The Functional Way</b>
+  <b>Conditional Logic: The Functional Way</b>
 </div>
 
 ## Usage
