@@ -1,6 +1,6 @@
 {
   "name": "functional-conditional",
-  "description": "Switch Statement: The Functional Way",
+  "description": "Conditional Logic: The Functional Way",
   "version": "0.1.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
