@@ -1,0 +1,43 @@
+{
+  "name": "functional-conditional",
+  "description": "Switch Statement: The Functional Way",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --config=jest.config.json",
+    "prepublish": "npm test"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.9",
+    "@types/node": "^11.10.4",
+    "jest": "^24.1.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-maged/functional-conditional.git"
+  },
+  "homepage": "https://github.com/ar-maged/functional-conditional#readme",
+  "bugs": {
+    "url": "https://github.com/ar-maged/functional-conditional/issues"
+  },
+  "keywords": [
+    "switch",
+    "case",
+    "if",
+    "then",
+    "else",
+    "when",
+    "functional",
+    "typescript",
+    "ts"
+  ],
+  "author": {
+    "name": "Abdelrahman Maged",
+    "email": "abdelrahman@maged.rocks"
+  },
+  "license": "MIT"
+}
